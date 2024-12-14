@@ -32,4 +32,3 @@ ColorPick Lens is a powerful color picker and palette management tool for web de
 ## Contact
 For support or inquiries:
 - Website: [www.digitalcloud.no](https://www.digitalcloud.no)
-- Email: info@digitalcloud.no
