@@ -3,8 +3,8 @@
 Official documentation and policies for the ColorPick Lens Chrome Extension.
 
 ## Links
-- [Privacy Policy](https://rayice.github.io/colorpick-lens-docs/docs/privacy.html)
-- [License Agreement](https://rayice.github.io/colorpick-lens-docs/docs/EULA.html)
+- [Privacy Policy](https://rayice.github.io/colorpick-lens-docs/privacy.html)
+- [License Agreement](https://rayice.github.io/colorpick-lens-docs/EULA.html)
 
 ## About ColorPick Lens
 ColorPick Lens is a powerful color picker and palette management tool for web designers and developers. The extension allows users to pick colors from any webpage and organize them into custom palettes.
